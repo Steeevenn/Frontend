@@ -68,7 +68,6 @@ document.addEventListener("DOMContentLoaded", function () {
   testimonios.className = "testimonios";
   testimonios.id="testimonios"
   testimonios.innerHTML = `
-
     <h1 class="mb-4 h1-testimonio">Testimonios</h1>
     <div class="container-fluid">
       <div class="row d-flex justify-content-center align-items-center">
@@ -94,8 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <div class="footer-testimonio text-center mt-4">
         <h2 class=" titulo-testimonio   ">¡Únete a Nuestro Viaje Fit!</h2>
         <p class="lead mt-5 mb-7">Libera tu potencial con formación personalizada y entrenamientos de última generación. ¡Contáctenos hoy <br/>para comenzar su transformación!</p>
-        <button class=" btn-testimonio btn btn-primary btn-lg mt-4 s">Prueba de 7 días</button>
-      </div>
+<a href="../components/login.html" class="btn-testimonio btn btn-primary btn-lg mt-4 s">Prueba de 7 días</a>      </div>
     </div>
      
     
