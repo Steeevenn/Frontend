@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <a class="nav-link" href="../components/contacto.html">Contáctenos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../components/home.html">Volver al Inicio</a>
+          <a class="nav-link" href = "#heroSection" >Volver al Inicio</a>
         </li>
       </ul>
           </div>
