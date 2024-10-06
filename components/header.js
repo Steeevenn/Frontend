@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand d-flex align-items-center" href="../components/home.html">
+                <a class="navbar-brand d-flex align-items-center" href="#heroSection">
                     <span class="material-symbols-outlined iconoPrincipal">
                         fitness_center
                     </span>
@@ -17,13 +17,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="../components/home.html">Inicio</a>
+                            <a class="nav-link" href = "#heroSection">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="../components/home.html#testimonios">Testimonios</a>
+                            <a class="nav-link" href="#testimonios">Testimonios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="../components/home.html#servicios">Servicios</a>
+                            <a class="nav-link" href="#servicios">Servicios</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="../components/contacto.html">Contáctanos</a>
